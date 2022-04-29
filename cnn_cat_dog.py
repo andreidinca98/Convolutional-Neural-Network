@@ -1,15 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Dec  5 23:27:38 2020
 
-@author: Cucu
-"""
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Dec  5 01:16:23 2020
-
-@author: Cucu
-"""
 #IMPORTING LIBRARIES
 import tensorflow as tf
 import pandas as pd
